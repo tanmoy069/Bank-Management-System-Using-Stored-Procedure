@@ -21,7 +21,7 @@ public class DBConnection {
 		try {
 			conn = DriverManager.getConnection(URL, USER, PASS);
 			log.info("connection created.");
-			// conn.close();
+			//conn.close();
 		} catch (SQLException e) {
 			log.error("Connection error: " + e.getMessage());
 		}

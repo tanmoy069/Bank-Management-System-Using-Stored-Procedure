@@ -6,7 +6,7 @@ import Implement.ImplementationOfTake;
  * Hello world!
  *
  */
-public class App 
+/*public class App 
 {
     public static void main( String[] args )
     {
@@ -16,5 +16,9 @@ public class App
         imt.entireBranchTable();
         imt.findFromAccount();
         imt.selectedFromAccount(400);
+        imt.selectedAccountNoFromAccount(700);
+        imt.selectedAccountNoBalanceFromAccount(800, "Brighton");
+        imt.allBranchNameAndAssetsFromBranch();
+        imt.selectedBranchNameFromBranch();
     }
-}
+}*/
